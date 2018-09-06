@@ -1,4 +1,4 @@
-# Deep learning lecture
+# Deep learning introductory lecture
 ## Description
 This repository contain the sildes of the introduction to deep learning 3h lecture given at the ECAS-ENBIS 1-Day Summer School, on the 6 of september, 2018
 ([00_Main_Deep_2018.pdf](https://github.com/StephaneCanu/Deep_learning_lecture/blob/master/00_Main_Deep_2018.pdf))
@@ -6,9 +6,12 @@ This repository contain the sildes of the introduction to deep learning 3h lectu
 It comes together with practical exercices on deep learning with the solution in python based on keras
 
 ## Requirements
+
+Keras should be available on your python environment. 
+You can also install this library in the local environment using pip 
 (`pip3 install keras`)
 
-## Description
+## Deep learning practical session
 1. TP_Deep_1_MNIST.py (based on MNIST)
 2. TP_Deep_2_webcam.py (require a web cam, and opencv-python `pip install opencv-python`)
 3. TP_Deep_3_fine_tuning.py
@@ -17,7 +20,7 @@ that works with the directories contained in these zip files
    - test_cheese.zip
 
 to make it run you may:
-dowload the TP_Deep_3_fine_tuning.py file to some directory adn move to this directory with python (e.g. `cd ../Deep_learning_lecture`)
+dowload the TP_Deep_3_fine_tuning.py file to some directory and move to this directory with python (e.g. `cd ../Deep_learning_lecture`)
 
 ```
 class MonArg(object):
