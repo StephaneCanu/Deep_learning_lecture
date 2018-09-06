@@ -8,8 +8,12 @@ It comes together with practical exercices on deep learning with the solution in
 ## Requirements
 
 Keras should be available on your python environment. 
-You can also install this library in the local environment using pip 
+You can install this library in the local environment using pip 
 (`pip3 install keras`)
+
+TP_Deep_2_webcam.py require opencv-python
+You can also install this library in the local environment using pip 
+(`pip install opencv-python`)
 
 ## Deep learning practical session
 1. TP_Deep_1_MNIST.py (based on MNIST)
