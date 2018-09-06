@@ -1,17 +1,17 @@
 # Deep learning: an historical perspective
 ## Description
 This repository contain the sildes of the introduction to deep learning 3h lecture given at the ECAS-ENBIS 1-Day Summer School, on the 6 of september, 2018
-([00_Main_Deep_2018.pdf](https://github.com/StephaneCanu/Deep_learning_lecture/blob/master/00_Main_Deep_2018.pdf))
+([00_Main_Deep_2018.pdf](https://github.com/StephaneCanu/Deep_learning_lecture/blob/master/00_Main_Deep_2018.pdf))  
 
 It comes together with practical exercices on deep learning with the solution in python based on keras
 
 ## Requirements
 
-Keras should be available on your python environment. 
+Keras should be available on your python environment.  
 You can install this library in the local environment using pip 
 (`pip3 install keras`)
 
-TP_Deep_2_webcam.py require opencv-python
+TP_Deep_2_webcam.py require opencv-python  
 You can also install this library in the local environment using pip 
 (`pip install opencv-python`)
 
