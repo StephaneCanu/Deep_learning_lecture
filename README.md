@@ -1,4 +1,4 @@
-# Deep learning introductory lecture
+# Deep learning: an historical perspective
 ## Description
 This repository contain the sildes of the introduction to deep learning 3h lecture given at the ECAS-ENBIS 1-Day Summer School, on the 6 of september, 2018
 ([00_Main_Deep_2018.pdf](https://github.com/StephaneCanu/Deep_learning_lecture/blob/master/00_Main_Deep_2018.pdf))
@@ -44,3 +44,9 @@ NB_IV3_LAYERS_TO_FREEZE = 172
 import TP_Deep_3_fine_tuning
 TP_Deep_3_fine_tuning.train(MonArg("train_cheese","test_cheese"))
 ```
+## To go further
+
+- [A History of Deep Learning, May 30, 2018 by Andrew Fogg](https://www.import.io/post/history-of-deep-learning/)
+- [A 'Brief' History of Neural Nets and Deep Learning, December 24, 2015 by Andrey Kurenkov](http://www.andreykurenkov.com/writing/ai/a-brief-history-of-neural-nets-and-deep-learning/)
+- [Timeline of machine learning on wikipedia](https://en.wikipedia.org/wiki/Timeline_of_machine_learning)
+
