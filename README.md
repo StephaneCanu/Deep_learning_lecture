@@ -5,7 +5,8 @@ Deep learning lecture
 is the introduction to deep learning 3h lecture given at the ECAS-ENBIS 1-Day Summer School, on the 6 of september, 2018
 
 It comes together with 3 practical exercices in python based on keras
-\tt pip3 install keras
+
+pip3 install keras
 
 
 1. TP_Deep_1_MNIST.py
