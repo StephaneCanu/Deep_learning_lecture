@@ -57,4 +57,4 @@ TP_Deep_3_fine_tuning.train(MonArg("train_cheese","test_cheese"))
 - [A History of Deep Learning, May 30, 2018 by Andrew Fogg](https://www.import.io/post/history-of-deep-learning/)
 - [Timeline of machine learning on wikipedia](https://en.wikipedia.org/wiki/Timeline_of_machine_learning)
 
-@scanu https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning/
+<!--- https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning/ --->
