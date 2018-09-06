@@ -1,12 +1,14 @@
 # Deep learning lecture
-Deep learning lecture
-
+## Description
+This repository contain the sildes of the introduction to deep learning 3h lecture given at the ECAS-ENBIS 1-Day Summer School, on the 6 of september, 2018
 [00_Main_Deep_2018.pdf](https://github.com/StephaneCanu/Deep_learning_lecture/blob/master/00_Main_Deep_2018.pdf)
-is the introduction to deep learning 3h lecture given at the ECAS-ENBIS 1-Day Summer School, on the 6 of september, 2018
 
-It comes together with 3 practical exercices in python based on keras
+It comes together with practical exercices on deep learning with the solution in python based on keras
+
+## Requirements
 (`pip3 install keras`)
 
+## Description
 1. TP_Deep_1_MNIST.py (based on MNIST)
 2. TP_Deep_2_webcam.py (require a web cam, and opencv-python `pip install opencv-python`)
 3. TP_Deep_3_fine_tuning.py
