@@ -21,13 +21,13 @@ You can also install this library in the local environment using pip
 ### TP_Deep_2_webcam.py (require a web cam, and opencv-python `pip install opencv-python`)
 
 ### TP_Deep_3_fine_tuning.py
-that works with the directories contained in these zip files
+It works with the directories contained in these zip files
    - train_cheese.zip
    - test_cheese.zip
 
-to make it run you may:
-dowload the TP_Deep_3_fine_tuning.py file to some directory and move to this directory with python (e.g. `cd ../Deep_learning_lecture`)
-
+to make it run you may:  
+ - dowload the TP_Deep_3_fine_tuning.py file to some directory and move to this directory with python (e.g. `cd ../Deep_learning_lecture`)  
+ - define the class MonArg as follows
 ```
 class MonArg(object):
    def __init__(self, train, val):
@@ -38,6 +38,7 @@ class MonArg(object):
         self.output_model_file = "inceptionv3-ft.model"
         self.plot = "store_true"
 ```
+- define some constants
 ```
 IM_WIDTH, IM_HEIGHT = 299, 299 
 NB_EPOCHS = 25
@@ -45,7 +46,7 @@ BAT_SIZE = 32
 FC_SIZE = 1024
 NB_IV3_LAYERS_TO_FREEZE = 172
 ```
-        
+- import the TP_Deep_3_fine_tuning.py file and run it     
 ```
 import TP_Deep_3_fine_tuning
 TP_Deep_3_fine_tuning.train(MonArg("train_cheese","test_cheese"))
