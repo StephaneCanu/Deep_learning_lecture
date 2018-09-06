@@ -1,7 +1,7 @@
 # Deep learning lecture
 Deep learning lecture
 
-00_Main_Deep_2018.pdf
+[00_Main_Deep_2018.pdf](https://github.com/StephaneCanu/Deep_learning_lecture/blob/master/00_Main_Deep_2018.pdf)
 is the introduction to deep learning 3h lecture given at the ECAS-ENBIS 1-Day Summer School, on the 6 of september, 2018
 
 It comes together with 3 practical exercices in python based on keras
