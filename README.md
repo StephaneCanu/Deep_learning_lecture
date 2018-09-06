@@ -8,7 +8,7 @@ It comes together with 3 practical exercices in python based on keras
 (`pip3 install keras`)
 
 1. TP_Deep_1_MNIST.py
-2. TP_Deep_2_webcam.py (require a web cam, `pip install opencv-python`)
+2. TP_Deep_2_webcam.py (require a web cam, and opencv-python `pip install opencv-python`)
 3. TP_Deep_3_fine_tuning.py
 that works with the directories contained in these zip files
    - train_cheese.zip
