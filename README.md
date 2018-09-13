@@ -17,7 +17,11 @@ You can also install this library in the local environment using pip
 (`pip install opencv-python`)
 
 ### TP_Deep_1_MNIST.py (based on MNIST)
-comes together with the jupyter notebook TP_Deep_1_MNIST.ipynb
+The purpose of this code is to help to take our first step in deep learning by reproducing  the results given on the [MNIST site](http://yann.lecun.com/exdb/mnist/). In less than 3 minutes, you will build and train a fully connected neural network (NN) 
+performing less than 1.5% error on the [MNIST database](http://yann.lecun.com/exdb/mnist/),
+and then, in less than 15 minutes, a convolutional neural network
+performing less than 1% error.    
+It comes together with the jupyter notebook TP_Deep_1_MNIST.ipynb
 
 ### TP_Deep_2_webcam.py 
 require a web cam, and opencv-python `pip install opencv-python`
