@@ -19,7 +19,8 @@ You can also install this library in the local environment using pip
 ### TP_Deep_1_MNIST.py (based on MNIST)
 comes together with the jupyter notebook TP_Deep_1_MNIST.ipynb
 
-### TP_Deep_2_webcam.py (require a web cam, and opencv-python `pip install opencv-python`)
+### TP_Deep_2_webcam.py 
+require a web cam, and opencv-python `pip install opencv-python`
 
 ### TP_Deep_3_fine_tuning.py
 It works with the directories contained in these zip files
