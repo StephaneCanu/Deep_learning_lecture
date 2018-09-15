@@ -61,6 +61,7 @@ TP_Deep_3_fine_tuning.train(MonArg("train_cheese","test_cheese"))
 
 - [A 'Brief' History of Neural Nets and Deep Learning, December 24, 2015 by Andrey Kurenkov](http://www.andreykurenkov.com/writing/ai/a-brief-history-of-neural-nets-and-deep-learning/)
 - [A History of Deep Learning, May 30, 2018 by Andrew Fogg](https://www.import.io/post/history-of-deep-learning/)
+- [Deep Learning in Neural Networks: An Overview, 2015 by Jürgen Schmidhuber](http://people.idsia.ch/~juergen/deep-learning-overview.html)
 - [Timeline of machine learning on wikipedia](https://en.wikipedia.org/wiki/Timeline_of_machine_learning)
 
 <!--- https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning/ --->
