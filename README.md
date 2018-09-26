@@ -21,7 +21,8 @@ The purpose of this code is to help to take our first step in deep learning by r
 performing less than 1.5% error on the [MNIST database](http://yann.lecun.com/exdb/mnist/),
 and then, in less than 15 minutes, a convolutional neural network
 performing less than 1% error.    
-It comes together with the jupyter notebook TP_Deep_1_MNIST.ipynb
+It comes together with the jupyter notebook TP_Deep_1_MNIST.ipynb. 
+The other jupyter notebook TP_Deep_1_MNIST_Optim.ipynb, proposes a comparizon of different optimizers on the [MNIST fashion dataset](https://github.com/zalandoresearch/fashion-mnist).
 
 ### TP_Deep_2_webcam.py 
 require a web cam, and opencv-python `pip install opencv-python`
