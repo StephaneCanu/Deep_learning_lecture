@@ -6,7 +6,7 @@ This repository contains the sildes of the seminar “Deep learning: an historic
 It also contains the slides of the introduction to deep learning 3h lecture given at the ECAS-ENBIS 1-Day Summer School, on the 6 of september, 2018
 ([00_Main_Deep_2018.pdf](https://github.com/StephaneCanu/Deep_learning_lecture/blob/master/00_Main_Deep_2018.pdf))  
 
-It comes together with practical exercices on deep learning with the solution in python based on keras
+It comes together with practical exercices on deep learning with the solution in python based on keras and some jupyter notebooks within the so called directory.
 
 ## Deep learning practical session
 ### Requirements
