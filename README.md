@@ -1,7 +1,7 @@
 # Deep learning: an historical perspective
 ## Description
 This repository contains the sildes of the seminar “Deep learning: an historical perspective”,  given October 31 2pm-3pm at SJTU co-organized by SJTU School of Mathematical Sciences and SJTU-ParisTech Elite Institute of Technology
-([Intro_Deep_SJTU_2018.pdf](https://github.com/StephaneCanu/Deep_learning_lecture/blob/master/Intro_Deep_SJTU_2018.pdf), 20.4 MB)  
+([Intro_Deep_SJTU_2018.pdf](https://github.com/StephaneCanu/Deep_learning_lecture/blob/master/Intro_Deep_SJTU_2018.pdf), 21.5 MB)  
 
 It also contains the slides of the introduction to deep learning 3h lecture given at the ECAS-ENBIS 1-Day Summer School, on the 6 of september, 2018
 ([00_Main_Deep_2018.pdf](https://github.com/StephaneCanu/Deep_learning_lecture/blob/master/00_Main_Deep_2018.pdf))  
