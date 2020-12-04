@@ -1,4 +1,4 @@
-**Introduction to Adversarial Exemples
+**Introduction to Adversarial Exemples**
 
 This directory contains two files: 
  - Lecture slides: 00_Main_deep_robust.pdf
