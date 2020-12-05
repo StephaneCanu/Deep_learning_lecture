@@ -24,8 +24,8 @@ Are implemented:
 - The accelerated MIP-ReLUplex attacks using bounds
 
 <p align="center"> <img src="https://www.cs.umd.edu/~tomg/img/free/viz_9985_10000_small.png" 
-alt="CIFAR10 data" width="520" height="270" border="1"  class="center" />
-<p style="text-align: center;"> <i>Illustration from the Adversarial Training for Free! web site </i> https://www.cs.umd.edu/~tomg/projects/free/</p>
+alt="CIFAR10 data" width="540" height="270" border="1"  class="center" /> <br/>
+<i>Illustration from the Adversarial Training for Free! web site </i> https://www.cs.umd.edu/~tomg/projects/free/
 </p>
  
 
