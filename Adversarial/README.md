@@ -31,3 +31,33 @@ alt="CIFAR10 data" width="540" height="270" border="1"  class="center" /> <br/>
 
 For more details, see for instance [Adversarial Robustness - Theory and Practice](https://adversarial-ml-tutorial.org/)
 or the [Adversarial Machine Learning Reading List](https://nicholas.carlini.com/writing/2018/adversarial-machine-learning-reading-list.html)
+
+
+## A list of review papers
+
+ - Akhta et al, Threat of Adversarial Attacks on Deep Learning 
+in Computer Vision: A Survey (IEEE acces, feb 2018)
+https://ieeexplore.ieee.org/document/8294186
+
+ - Chakraborty et al, Adversarial Attacks and Defences: A Survey (sept 2018)
+https://arxiv.org/abs/1810.00069
+
+ - Biggio \& F Roli, Wild Patterns: Ten Years After the Rise of Adversarial Machine Learning
+Pattern Recognition (dec 2018)
+https://www.sciencedirect.com/science/article/abs/pii/S0031320318302565
+
+ - Yuan et al, Adversarial examples: Attacks and defenses for deep learning
+ IEEE transactions on neural networks, (jan 2019)
+ https://arxiv.org/abs/1712.07107
+
+ - Xu et al, Adversarial Attacks and Defenses in Images, Graphs and Text: A Review (sept 2019)
+https://arxiv.org/abs/1909.08072
+
+ - Wiyatno et al., Adversarial Examples in Modern Machine Learning:  A Review (nov 2019)
+https://arxiv.org/pdf/1911.05268.pdf
+
+ - Silva \& Najafirad,  Opportunities and Challenges in Deep Learning
+Adversarial Robustness: A Survey (jul 2020)
+https://arxiv.org/abs/2007.00753
+
+
