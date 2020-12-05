@@ -4,7 +4,8 @@
 
 This directory contains two files: 
  - Lecture slides: 00_Main_deep_robust.pdf
- - Associated notebook: adversarial_attacks.ipynb
+ - Associated notebook: adversarial_attacks.ipynb. This notbook requires pytorch, cvxpy and gurobi (if not available, it can be replaced in the code by 'ECOS_BB')
+
 
 ## How to build adversarial exemples and define the robustness of a classifier?
 
@@ -13,7 +14,6 @@ These slides aim at providing an introduction to the notion of adversarial exmpl
 To practice, a Jupyter Notebook is also available.
 
 This notebook illustrate through simmple implementations of main methods to generate such adversarial examples in a white box setting, with the CIFAR10 dataset using a 3-layer perceptron as a neural network implemented with pytorch, in order to compare their efficiency both in terms of precision and computation time.
-The notbook requires pytorch, cvxpy and gurobi (if not available, it can be replaced in the code by 'ECOS_BB')
 
 Are implemented:
 - Evasion attack
@@ -25,7 +25,7 @@ Are implemented:
 
 <center>
  <img src="https://www.cs.umd.edu/~tomg/img/free/viz_9985_10000_small.png" 
-alt="CIFAR10 data" width="450" height="270" border="1" />
+alt="CIFAR10 data" width="470" height="270" border="1"  class="center" />
 <p style="text-align: center;"> <i>Illustration from the Adversarial Training for Free! web site </i> https://www.cs.umd.edu/~tomg/projects/free/</p>
  </center>
  
