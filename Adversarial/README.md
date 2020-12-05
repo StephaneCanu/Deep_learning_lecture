@@ -23,11 +23,10 @@ Are implemented:
 - The MIP-ReLUplex attacks using either L_2 and L_&infin; distance measures
 - The accelerated MIP-ReLUplex attacks using bounds
 
-<center>
- <img src="https://www.cs.umd.edu/~tomg/img/free/viz_9985_10000_small.png" 
+<p align="center"> <img src="https://www.cs.umd.edu/~tomg/img/free/viz_9985_10000_small.png" 
 alt="CIFAR10 data" width="520" height="270" border="1"  class="center" />
 <p style="text-align: center;"> <i>Illustration from the Adversarial Training for Free! web site </i> https://www.cs.umd.edu/~tomg/projects/free/</p>
-</center>
+</p>
  
 
 For more details, see for instance [Adversarial Robustness - Theory and Practice](https://adversarial-ml-tutorial.org/)
