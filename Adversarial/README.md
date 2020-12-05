@@ -4,7 +4,7 @@
 
 This directory contains two files: 
  - Lecture slides: 00_Main_deep_robust.pdf
- - Associated notebook: adversarial_attacks.ipynb. This notbook requires pytorch, cvxpy and gurobi (if not available, it can be replaced in the code by 'ECOS_BB')
+ - Associated notebook: adversarial_attacks.ipynb. This notbook requires pytorch, [cvxpy](https://www.cvxpy.org/) and gurobi (if not available, it can be replaced in the code by 'ECOS_BB')
 
 
 ## How to build adversarial exemples and define the robustness of a classifier?
@@ -25,9 +25,9 @@ Are implemented:
 
 <center>
  <img src="https://www.cs.umd.edu/~tomg/img/free/viz_9985_10000_small.png" 
-alt="CIFAR10 data" width="470" height="270" border="1"  class="center" />
+alt="CIFAR10 data" width="452" height="270" border="1"  class="center" />
 <p style="text-align: center;"> <i>Illustration from the Adversarial Training for Free! web site </i> https://www.cs.umd.edu/~tomg/projects/free/</p>
- </center>
+</center>
  
 
 For more details, see for instance [Adversarial Robustness - Theory and Practice](https://adversarial-ml-tutorial.org/)
